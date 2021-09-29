@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Code\\WaterAPI\\WaterAPI\\WaterAPI.csproj",
+      "projectUniqueName": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Can_you_really_write_code\\WaterAPI\\WaterAPI\\WaterAPI.csproj",
       "projectName": "WaterAPI",
-      "projectPath": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Code\\WaterAPI\\WaterAPI\\WaterAPI.csproj",
+      "projectPath": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Can_you_really_write_code\\WaterAPI\\WaterAPI\\WaterAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Code\\WaterAPI\\WaterAPI\\obj\\",
+      "outputPath": "D:\\备份\\2021\\20210925-您真的会写代码吗\\Can_you_really_write_code\\WaterAPI\\WaterAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
